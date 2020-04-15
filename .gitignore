@@ -135,3 +135,4 @@ dmypy.json
 # config files
 config.py
 ~*
+..bfg-report/
